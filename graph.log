@@ -1,0 +1,22 @@
+*   954d5fe Resolviendo conflicto en estaciones del año y fechas de inicio
+|\  
+| * c1f7b8c agregando las estaciones del año
+* | a3fa399 Agregando las estaciones del año con fechas
+|/  
+*   1e32bc0 Merge branch 'html'
+|\  
+| * 439fb4f 5
+* | 5945a10 hi
+* | 05d9ca2 Merge branch 'html'
+|\| 
+| * c927f2b agregendo html
+* | 1601a87 js
+|/  
+* 4de6f03 creando index.css
+* 96c89c2 haciendo cambios al HTML
+* 52f365d creando index.html
+* ee4b06c Ignorando archivos .exe
+* d609daa Create LICENSE
+* e1f3346 Agregando mas contenido al README
+* a2ffe68 Agregando contenido inicial al README
+* 48a49be Primer Commit
